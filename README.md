@@ -7,7 +7,8 @@ This Project enables automatic summarisation of news articles, texts, and especi
 
 However, I will be working on improving this for future iterations! Feel free to share your views :)
 
-![Uploading Screenshot (568).png…]()
+![Screenshot (568)](https://github.com/user-attachments/assets/9e157b57-f395-4ecc-9486-841f69552611)
+
 
 
 

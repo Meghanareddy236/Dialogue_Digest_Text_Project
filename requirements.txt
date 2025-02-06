@@ -1,0 +1,8 @@
+flask
+transformers
+torch
+datasets
+sacrebleu
+rouge_score
+py7zr
+evaluate
